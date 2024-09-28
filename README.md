@@ -1,1 +1,1 @@
-# list.html
+# grocery_list.html
